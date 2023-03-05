@@ -1,31 +1,19 @@
 # DrumKit
-Drum Kit Game 
+## Drum Kit Game 
 
-Angela Yu Web Development - Advanced JS and DOM Manipulation
-HTML/CSS/JS & DOM - Drum Kit
-About this project
-Features
-Requirements
-Technical Information
+## Angela Yu Web Development - Advanced JS and DOM Manipulation
+## HTML/CSS/JS & DOM - Drum Kit
 
-About
-In this code along I updated the provided starter files using HTML, CSS, and Javascript
+## Game Link: https://codewithsomesh.github.io/DrumKit/
 
-
-Features
+### Features
  HTML
  CSS
  Javascript
 
-Requirements
+### Requirements
 HTML
 CSS
 Javascript
 
-Technical Information
-To run the site on your local machine
 
-Download or clone the repository onto your machine.
-Extract the .zip file.
-Open .html file in your browser.
-Alternatively you can click on the following Site Link to view.
