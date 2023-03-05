@@ -6,9 +6,9 @@
 ### Game Link: https://codewithsomesh.github.io/DrumKit/
 
 ### Tech Stack Used 
- HTML
- CSS
- Javascript
+ 1. HTML
+ 2. CSS
+ 3. Javascript
 
 
 
