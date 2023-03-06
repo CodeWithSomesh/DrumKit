@@ -21,8 +21,8 @@ My Website (Link): https://codewithsomesh.github.io/DrumKit/
   <br>
   Javascript keywords (.this keyword)
 
-<br>
+  <hl>
 
-Modified the original website colors to the colors of my liking
+## Modified the original website colors to the colors of my liking
 
 My Website (Screenshots):
