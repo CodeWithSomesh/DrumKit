@@ -5,7 +5,9 @@ Drum Kit Game from Angela Yu's Complete Web Development Course
 
 My Website (Link): https://codewithsomesh.github.io/DrumKit/
 
-Built with
+<hr>
+
+## Built with
 
   Semantic HTML5 markup 
 <br>
