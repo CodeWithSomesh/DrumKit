@@ -1,14 +1,27 @@
 # DrumKit
 
-## Angela Yu Web Development Course - Advanced JS and DOM Manipulation
-### HTML/CSS/JS & DOM - Drum Kit
 
-### Game Link: https://codewithsomesh.github.io/DrumKit/
+Drum Kit Game from Angela Yu's Complete Web Development Course
 
-### Tech Stack Used 
- 1. HTML
- 2. CSS
- 3. Javascript
+My Website (Link): https://codewithsomesh.github.io/DrumKit/
 
+Built with
 
+  Semantic HTML5 markup 
+<br>
+  CSS custom properties
+  
+<br>
+  CSS Grid
+<br>
+  Desktop-first workflow
+<br>
+  Javascript methdos (setTimeout() method & addEventListener() method )
+  <br>
+  Javascript keywords (.this keyword)
 
+<br>
+
+Modified the original website colors to the colors of my liking
+
+My Website (Screenshots):
