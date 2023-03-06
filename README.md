@@ -9,8 +9,7 @@ Built with
 
   Semantic HTML5 markup 
 <br>
-  CSS custom properties
-  
+  CSS custom properties 
 <br>
   CSS Grid
 <br>
