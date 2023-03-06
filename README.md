@@ -26,3 +26,5 @@ My Website (Link): https://codewithsomesh.github.io/DrumKit/
 ## Modified the original website colors to the colors of my liking
 
 My Website (Screenshots):
+
+Orginal Website:
