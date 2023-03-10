@@ -8,17 +8,17 @@ My Website (Link): https://codewithsomesh.github.io/DrumKit/
 <hl>
 
 ## Built with
-<br>
+
   1. Semantic HTML5 markup 
-<br>
+
   2. CSS custom properties 
-<br>
+
   3. CSS Grid
-<br>
+
   4. Desktop-first workflow
-<br>
+
   5. Javascript methdos (setTimeout() method & addEventListener() method )
-<br>
+
   6. Javascript keywords (.this keyword)
 
   <hl>
