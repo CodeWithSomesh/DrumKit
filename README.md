@@ -10,7 +10,7 @@ My Website (Link): https://codewithsomesh.github.io/DrumKit/
 ## Built with
 
   1. Semantic HTML5 markup 
-<br>
+
   2. CSS custom properties 
 <br>
   3. CSS Grid
@@ -29,3 +29,5 @@ My Website (Screenshots):
 ![image](https://user-images.githubusercontent.com/123357802/224360491-88170a90-669f-4b7b-acac-ea2cc0f1e2a1.png)
 
 Orginal Website:
+![image](https://user-images.githubusercontent.com/123357802/224361252-d16de8bd-e549-45b0-9fe0-e30b4792b804.png)
+
