@@ -9,22 +9,23 @@ My Website (Link): https://codewithsomesh.github.io/DrumKit/
 
 ## Built with
 
-  Semantic HTML5 markup 
+  1. Semantic HTML5 markup 
 <br>
-  CSS custom properties 
+  2. CSS custom properties 
 <br>
-  CSS Grid
+  3. CSS Grid
 <br>
-  Desktop-first workflow
+  4. Desktop-first workflow
 <br>
-  Javascript methdos (setTimeout() method & addEventListener() method )
+  5. Javascript methdos (setTimeout() method & addEventListener() method )
   <br>
-  Javascript keywords (.this keyword)
+  6. Javascript keywords (.this keyword)
 
   <hl>
 
 ## Modified the original website colors to the colors of my liking
 
 My Website (Screenshots):
+![image](https://user-images.githubusercontent.com/123357802/224360491-88170a90-669f-4b7b-acac-ea2cc0f1e2a1.png)
 
 Orginal Website:
