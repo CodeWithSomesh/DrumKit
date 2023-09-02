@@ -3,7 +3,7 @@
 
 Drum Kit Game from Angela Yu's Complete Web Development Course
 
-My Website (Link): https://codewithsomesh.github.io/DrumKit/
+My Website 🌐: https://codewithsomesh.github.io/DrumKit/
 
 <hl>
 
